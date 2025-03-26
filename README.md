@@ -1,4 +1,4 @@
-# Atom Ducky
+# Atom Ducky 🦆
 
 ## Overview
 Atom Ducky is a Rubber Ducky device created using the Atom S3U microcontroller. It provides a powerful HID attack tool with a web-based interface to manage and execute payloads.
