@@ -54,7 +54,7 @@ Atom Ducky is a Rubber Ducky device created using the Atom S3U microcontroller. 
 This tool is intended for educational and authorized security testing purposes only. The developer is not responsible for any misuse or illegal activity.
 
 ## Author
-Developed by **FLOCK4H**.
+Developed by **Charan**.
 
 ## License
 [MIT License](LICENSE)
